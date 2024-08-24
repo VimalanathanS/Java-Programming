@@ -1,6 +1,6 @@
 //This program finds the maximum element in a array without using Buildin function
 import java.util.*;
-public class MaxElement 
+public class MaxElementMAX 
 {
     public static void main(String args[])
     {
