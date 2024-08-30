@@ -1,7 +1,11 @@
 // This program prints the following diamond pattern
-//  *
-// ***
-//  *
+//    *
+//   ***
+//  *****
+// *******
+//  *****
+//   ***
+//    *
 import java.util.*;
 public class diamond
 {
